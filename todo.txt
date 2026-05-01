@@ -17,3 +17,4 @@
 6. Задача со второго ПК 
 TEST 
 HOTFIX 
+"Task A rebase" 
