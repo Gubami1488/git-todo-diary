@@ -19,3 +19,4 @@ TEST
 HOTFIX 
 "Task A rebase" 
 "Task B rebase" 
+Плохая задача 
